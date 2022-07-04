@@ -16,7 +16,7 @@
     {
       "ifChildState": "Done",
       "notParentStates": [],
-      "setParentStateTo": "Done",
+      "setParentStateTo": "Review",
       "allChildren": true
     }
   ]
